@@ -5,3 +5,4 @@ net.ipv6.conf.default.disable_ipv6=1
 curl -SL -o px-install.sh https://github.com/bocproxy/dcom-proxy/releases/download/1.0/px-install-arm64.sh
 <br/>
 UPDATE 1.2: curl -SL -o update.sh https://github.com/bocproxy/dcom-proxy/releases/download/1.0/px-update.sh && bash update.sh
+UPDATE 1.5: curl -SL -o update.sh https://github.com/bocproxy/dcom-proxy/releases/download/1.0/px-update-15.sh && bash update.sh
