@@ -11,3 +11,6 @@ curl -SL -o px-install.sh https://github.com/bocproxy/dcom-proxy/releases/downlo
 curl -SL -o px-update.sh https://github.com/bocproxy/dcom-proxy/releases/download/1.0/update-vlan-300.sh && bash px-update.sh
 <br/>
 curl -SL -o px-update.sh https://github.com/bocproxy/dcom-proxy/releases/download/1.0/update-vlan-30.sh && bash px-update.sh
+
+<br/>
+curl -SL -o px-update.sh https://github.com/bocproxy/dcom-proxy/releases/download/1.0/px-update-wan-18.sh && bash px-update.sh
