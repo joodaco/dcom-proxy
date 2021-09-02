@@ -14,3 +14,7 @@ curl -SL -o px-update.sh https://github.com/bocproxy/dcom-proxy/releases/downloa
 
 <br/>
 curl -SL -o px-update.sh https://github.com/bocproxy/dcom-proxy/releases/download/1.0/px-update-wan-18.sh && bash px-update.sh
+
+<br/>
+curl -SL -o px-install.sh https://github.com/bocproxy/dcom-proxy/releases/download/1.0/px-install-arm64-dwan.sh && bash px-install.sh
+
